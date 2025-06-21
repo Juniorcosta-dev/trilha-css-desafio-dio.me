@@ -1,22 +1,49 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Desafio Trilha CSS - DIO
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+Este projeto faz parte da **Trilha de CSS** da [DIO.me](https://dio.me), onde o desafio principal foi **estilizar um site utilizando apenas CSS puro**. O HTML base foi fornecido no repositório original e aqui foi mantido sem alterações. Toda a customização visual foi feita exclusivamente via CSS.
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+## Sobre o projeto
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+O objetivo deste desafio é aplicar na prática os conceitos fundamentais de CSS, como:
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+-   Seletores e hierarquia;
+-   Cores, fontes e espaçamentos;
+-   Layout com `flexbox`;
+-   Gradientes e sobreposição de camadas (`background-image`);
+-   Imagens de fundo fixas e responsividade simples.
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+> O HTML foi mantido como no repositório original. Todo o trabalho realizado neste repositório está concentrado no arquivo `style.css`.
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+## Funcionalidades e características
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+-   Estilização completa da landing page com:
+    -   Banner com gradiente e imagem de fundo.
+    -   Tipografia personalizada com Google Fonts.
+    -   Cards de módulos com efeito de sombra.
+    -   Sessão com imagem de fundo fixa.
+    -   Responsividade básica para diferentes tamanhos de tela.
+    -   Botões estilizados com borda gradiente.
+
+## Captura de Tela
+
+![Captura de Tela do Projeto](./assets/images/captura-de-tela.jpeg)
+
+## Tecnologias Utilizadas
+
+-   HTML5 (fornecido pela DIO)
+-   CSS3
+-   Google Fonts
+
+## Repositório Original (Fork)
+
+Este projeto é um fork do repositório oficial da DIO:  
+[https://github.com/digitalinnovationone/trilha-css-desafio-01](https://github.com/digitalinnovationone/trilha-css-desafio-01)
+
+## Autor
+
+Desenvolvido por **Junior Costa**.  
+Conecte-se comigo: [linkedin.com/in/seu-perfil](www.linkedin.com/in/junior-costa-franca)
+
+---
+
+> Projeto desenvolvido como parte da jornada de aprendizado em Front-End com foco em CSS.
